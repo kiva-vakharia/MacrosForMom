@@ -4,7 +4,8 @@ A simple and personalized nutrition tracking app built for my mom <3
 
 This app makes it easy to track daily macros from homemade Indian meals without needing to manually search nutrition information every time. Users can simply select a stored recipe, enter the amount they ate, and instantly see the nutritional breakdown.
 
-__Features__
+__Features__:
+
 Preloaded Indian recipes
 Enter serving size or quantity consumed
 Instant macro calculations:
@@ -30,6 +31,7 @@ __💡 Motivation__
 Tracking macros for homemade Indian food is difficult because most nutrition apps focus on Western meals or inaccurate restaurant estimates. This app was created to make healthy eating easier and more personalized for Indian home cooking.
 
 __📈 Future Improvements__
+
 Daily macro tracking dashboard
 Save favorite meals
 Meal history
