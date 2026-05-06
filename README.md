@@ -8,19 +8,15 @@ __Features__:
 
 Preloaded Indian recipes
 Enter serving size or quantity consumed
-Instant macro calculations:
-- Protein
-- Carbohydrates
-- Fats
-- Calories
-Quick recipe selection
-Simple and user-friendly interface
-Easily expandable recipe database
+- Instant macro calculations: Protein, Carbohydrates, Fats, Calories
+- Quick recipe selection
+- Simple and user-friendly interface
+- Easily expandable recipe database
 
 __🚀 How It Works__
-Select a recipe from the recipe list
-Enter how much you ate (grams, servings, pieces, etc.)
-The app calculates and displays your macros!
+-> Select a recipe from the recipe list
+-> Enter how much you ate (grams, servings, pieces, etc.)
+-> The app calculates and displays your macros!
 
 __🛠️ Tech Stack__
 
@@ -32,10 +28,10 @@ Tracking macros for homemade Indian food is difficult because most nutrition app
 
 __📈 Future Improvements__
 
-Daily macro tracking dashboard
-Save favorite meals
-Meal history
-Barcode scanner for packaged foods
-Custom recipe uploads
+- Daily macro tracking dashboard
+- Save favorite meals
+- Meal history
+- Barcode scanner for packaged foods
+- Custom recipe uploads
 
 ❤️ Made as a personal project to simplify nutrition tracking for family and make healthy eating more accessible through familiar homemade meals.
